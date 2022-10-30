@@ -1,0 +1,16 @@
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\bin\Debug\net5.0\Examen 2 Pilas.exe
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\bin\Debug\net5.0\Examen 2 Pilas.deps.json
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\bin\Debug\net5.0\Examen 2 Pilas.runtimeconfig.json
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\bin\Debug\net5.0\Examen 2 Pilas.runtimeconfig.dev.json
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\bin\Debug\net5.0\Examen 2 Pilas.dll
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\bin\Debug\net5.0\Examen 2 Pilas.pdb
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\obj\Debug\net5.0\Examen 2 Pilas.csproj.AssemblyReference.cache
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\obj\Debug\net5.0\Examen 2 Pilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\obj\Debug\net5.0\Examen 2 Pilas.AssemblyInfoInputs.cache
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\obj\Debug\net5.0\Examen 2 Pilas.AssemblyInfo.cs
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\obj\Debug\net5.0\Examen 2 Pilas.csproj.CoreCompileInputs.cache
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\obj\Debug\net5.0\Examen 2 Pilas.dll
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\obj\Debug\net5.0\refint\Examen 2 Pilas.dll
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\obj\Debug\net5.0\Examen 2 Pilas.pdb
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\obj\Debug\net5.0\Examen 2 Pilas.genruntimeconfig.cache
+C:\Users\hecso\3D Objects\Cuarto Cuatrimestre\Estructura de datos aplicadas\Segundo Parcial\C#\Examen 2 Pilas\obj\Debug\net5.0\ref\Examen 2 Pilas.dll
